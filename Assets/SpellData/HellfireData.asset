@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27a87f89fbd20c4b99dff18e1170020, type: 3}
+  m_Name: HellfireData
+  m_EditorClassIdentifier: 
+  spellName: Hellfire
+  drain: 'Insanity Drain: 5'
+  cooldown: 'Cooldown: 20s'
+  description: A mote of ghostly flame burns away the sins of the damned.
+  particleEffect: {fileID: 8633694978534365886, guid: 0562c58d6f2b644439aac988725b2873,
+    type: 3}
