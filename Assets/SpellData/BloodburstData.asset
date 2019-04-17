@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e27a87f89fbd20c4b99dff18e1170020, type: 3}
   m_Name: BloodburstData
   m_EditorClassIdentifier: 
-  spellName: Bloodburst
+  spellName: Blood Burst
   drain: 'Insanity Drain: 4'
-  cooldown: 'Cooldown: 15s'
-  description: A burst of blood sprouts from your hand, blinding and burning anyone
+  cooldown: 'Cooldown: 5s'
+  description: A stream of blood bursts from your hand, blinding and burning anything
     it touches.
   particleEffect: {fileID: 9135507008584250039, guid: 00d580d5f4a133e4fb3ee88e81fbc346,
     type: 3}

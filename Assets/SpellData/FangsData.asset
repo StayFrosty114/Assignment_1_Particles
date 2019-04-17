@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: FangsData
   m_EditorClassIdentifier: 
   spellName: Fangs
-  drain: 'Insanity Drain: 2'
-  cooldown: 'Cooldown: 5s'
-  description: Ghostly fangs reach from the ground and bite down on an enemy. Deals
-    damage.
+  drain: 'Insanity Drain: 3'
+  cooldown: 'Cooldown: 1s'
+  description: Gnashing ethereal fangs slash at the target.
   particleEffect: {fileID: 2087157585639761054, guid: 63b55ef9a9f5c8843a929c7c54220e6a,
     type: 3}

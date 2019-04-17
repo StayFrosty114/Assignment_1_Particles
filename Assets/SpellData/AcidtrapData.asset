@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: AcidtrapData
   m_EditorClassIdentifier: 
   spellName: Acid Trap
-  drain: 'Insanity Drain: 6'
-  cooldown: 'Cooldown: 25s'
-  description: A circle of acid opens up in the floor, sucking in anyone standing
-    in its space and dealing damage.
+  drain: 'Insanity Drain: 8'
+  cooldown: 'cooldown: 20s'
+  description: A swirling pool of acid opens beneath the target, trapping them and
+    dealing damage.
   particleEffect: {fileID: 1242021356829631146, guid: ca4c3f1b79e8b46469a839d3305885cd,
     type: 3}

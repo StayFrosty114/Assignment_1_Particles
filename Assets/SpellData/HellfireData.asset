@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: HellfireData
   m_EditorClassIdentifier: 
   spellName: Hellfire
-  drain: 'Insanity Drain: 5'
-  cooldown: 'Cooldown: 20s'
-  description: A mote of ghostly flame burns away the sins of the damned.
+  drain: 'Insanity Drain: 8'
+  cooldown: 'Cooldown: 10s'
+  description: A mote of green hellfire streams from your hand, cleansing the unworthy
+    with unholy fire.
   particleEffect: {fileID: 8633694978534365886, guid: 0562c58d6f2b644439aac988725b2873,
     type: 3}

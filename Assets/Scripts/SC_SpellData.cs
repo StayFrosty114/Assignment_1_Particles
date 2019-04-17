@@ -6,17 +6,47 @@ using UnityEngine;
 public class SC_SpellData : ScriptableObject
 {
     // Name of the Spell.
-    public string spellName;
+    [SerializeField]
+    private string spellName;
+
+    public string SpellName
+    {
+        get { return spellName; }
+    }
 
     // Cost in Insanity Points.
-    public string drain;
+    [SerializeField]
+    private string drain;
+
+    public string Drain
+    {
+        get { return drain; }
+    }
 
     // Cooldown before spell can be cast again.
-    public string cooldown;
+    [SerializeField]
+    private string cooldown;
+
+    public string Cooldown
+    {
+        get { return cooldown; }
+    }
 
     // Description of spell's effect.
-    public string description;
+    [SerializeField]
+    private string description;
+
+    public string Description
+    {
+        get { return description; }
+    }
 
     // Referencing the appropriate particle system.
-    public GameObject particleEffect;
+    [SerializeField]
+    private GameObject particleEffect;
+
+    public GameObject ParticleEffect
+    {
+        get { return particleEffect; }
+    }
 }

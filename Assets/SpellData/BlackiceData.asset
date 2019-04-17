@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: BlackiceData
   m_EditorClassIdentifier: 
   spellName: Black Ice
-  drain: 'Insanity Drain: 3'
-  cooldown: 'Cooldown: 10s'
-  description: Summon a radial explosion of shards of ice pulled straight from the
-    icy abyss. Deals damage within a certain radius.
+  drain: 'Insanity Drain: 6'
+  cooldown: 'Cooldown: 30s'
+  description: Summon a radial blast of black ice straight from the frozen depths
+    of the abyss.
   particleEffect: {fileID: 6674195244014766828, guid: fda8d966961b0c34a988d172160c0c78,
     type: 3}

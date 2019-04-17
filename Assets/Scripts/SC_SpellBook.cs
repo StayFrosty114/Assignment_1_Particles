@@ -20,10 +20,10 @@ public class SC_SpellBook : MonoBehaviour
     public void SpellInfo()
     {
         // Setting the UI text equal to the spellData values.
-        nameText.text = spellData.spellName;
-        drainText.text = spellData.drain;
-        cooldownText.text = spellData.cooldown;
-        descText.text = spellData.description;
+        nameText.text = spellData.SpellName;
+        drainText.text = spellData.Drain;
+        cooldownText.text = spellData.Cooldown;
+        descText.text = spellData.Description;
     }
 
 }

@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: TerrorData
   m_EditorClassIdentifier: 
   spellName: Terror
-  drain: 'Insanity Drain: 8'
+  drain: 'Insanity Drain: 15'
   cooldown: 'Cooldown: 30s'
-  description: A shroud of darkness covers an area, terrifying all it encompasses.
+  description: A cloud of darkness enshrouds an area. All within are consumed by their
+    worst fears.
   particleEffect: {fileID: 4016901580328975917, guid: 75ac3c38c28bc5a4f8049e5165b92bf4,
     type: 3}
